@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Bill Book</string>
+    <!-- TextView -->
+    <string name="title">Managerment Bill Book</string>
+    <string name="information_bill">Information Bill</string>
+    <string name="information_statistical">Information Statistical</string>
+    <string name="name_customer">Name Customer</string>
+    <string name="number_book">Number Book</string>
+    <string name="monney">Monney</string>
+    <string name="total_customer">Total Customer</string>
+    <string name="total_customer_vip">Total Customer VIP</string>
+    <string name="total_revenue">Total Revenue</string>
+    <string name="footer"></string>
+    <!-- Checkbox -->
+    <string name="check_customer_vip">CUSTOMER VIP</string>
+    <!-- Button -->
+    <string name="button_paypal">Paypal</string>
+    <string name="button_continue">Continue</string>
+    <string name="button_revenue">Revenue</string>
+    <!-- ImageButton -->
+    <string name="imagebutton_exit"></string>
+</resources>
